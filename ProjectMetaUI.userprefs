@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CreateDynResponses.cs">
+    <Files>
+      <File FileName="Assets/ResponseManager.cs" Line="38" Column="57" />
+      <File FileName="Assets/ScrollableList.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CreateDynResponses.cs" Line="32" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
